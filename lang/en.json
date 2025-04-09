@@ -8,11 +8,11 @@
   "TYPES.Item.item": "Item",
   "TYPES.Item.equipment": "Equipment",
   "TYPES.Item.talent": "Skill & Psionic Talent",
-  "TYPES.Item.species": "Espèce",
+  "TYPES.Item.species": "Species",
   "TYPES.Item.weapon": "Weapon",
   "TYPES.Item.container": "Container (backpack, chest)",
   "TYPES.Actor.character": "Traveller",
-  "TYPES.Actor.vehicule": "Vehicule",
+  "TYPES.Actor.vehicule": "Vehicle",
   "TYPES.Actor.container": "Container (backpack, chest)",
   "MGT2": {
     "Save": "Save",
@@ -160,28 +160,28 @@
     },
     "Characteristics": {
       "strength": {
-        "name": "Strength",
-        "short": "STR"
+        "name": "Fitness",
+        "short": "FIT"
       },
       "dexterity": {
-        "name": "Dexterity",
-        "short": "DEX"
+        "name": "Intellect",
+        "short": "INT"
       },
       "endurance": {
         "name": "Endurance",
         "short": "END"
       },
       "intellect": {
-        "name": "Intellect",
-        "short": "INT"
+        "name": "Experience",
+        "short": "EXP"
       },
       "education": {
-        "name": "Education",
-        "short": "EDU"
+        "name": "Wealth",
+        "short": "WLT"
       },
       "social": {
-        "name": "Social",
-        "short": "SOC"
+        "name": "Reputation",
+        "short": "REP"
       },
       "morale": {
         "name": "Morale",
@@ -238,8 +238,8 @@
       "clothing": "Clothing",
       "equipment": "Equipment",
       "computer": "Computer",
-      "trinket": "trinket",
-      "toolkit": "toolkit"
+      "trinket": "Trinket",
+      "toolkit": "Toolkit"
     },
     "ItemSubType": {
       "loot": "Loot",
